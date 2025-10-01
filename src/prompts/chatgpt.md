@@ -1,10 +1,53 @@
-## 🧠 Prompts
+## 🧠 Prompts - Desenvolvimento do Nome
 
+[Deep seek](deepseek.com)：
 
-ChatGPT：
-
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
+|   Ação   | Prompt                                                                                                                                          |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  Prompt de entrada  | Desejo criar um podcast sobre o debate entre arte tradicional e arte digital, focado na perspectiva humana. Preciso de sugestões de nomes em português que capturem essa essência. |
+
+    Instruções:
+
+            Gere 5 sugestões de nomes em português do Brasil
+
+            Devem refletir os temas: criatividade, debate humano, arte, tecnologia, diálogo
+
+            Nada de nomes em inglês ou estrangeirismos
+
+            Evite clichês como "podcast de..." ou "talk sobre..."
+
+            Priorize nomes que sejam convidativos e sugiram conversa                                        
+
+</br>
+
+
+|   Resposta   | 
+
+Perfeito! Entendi completamente. Seguem as cinco sugestões:
+
+ 1-  Ponto de Encontro - Sugere um espaço onde diferentes vozes criativas se encontram para dialogar
+
+2 - Traços em Diálogo - Une a ideia de traços artísticos com conversa profunda
+
+3 - Cores da Conversa - Metáfora que conecta paleta de cores com diversidade de opiniões
+
+4 - Estúdio Aberto - Transmite a sensação de um espaço criativo acessível a todos
+
+5 - Ligação Criativa - Reflete a ligação entre diferentes mentes criativas em debate
+
+ Qual destes ressoa mais com sua visão? Posso refinar o escolhido!  |
+
+
+ </br>
+
+ |  Prompt de de confirmação  | Perfeito! A troca para "Conexão Criativa" foi absolutamente acertada.
+
+✅ "Conexão" realmente traz uma sonoridade mais moderna e abrangente, transmitindo melhor a ideia de diálogo, rede e interação entre diferentes perspectivas criativas.
+
+O nome está confirmado: CONEXÃO CRIATIVA
+
+Excelente escolha! 🎯  |
+
+
+
 
