@@ -1,17 +1,19 @@
 # 🎙️ Conexão Criativa: Podcast Gerado por IA
 
 <p align="center">
-<img src="./assets/cover.png" width="300" />
+<img src="./assets/img/coverPodcast.jpg" width="300" />
 </p>
+
+</br>
 
 <p align="center">
 <a href="https://dio.me/">
     <img src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" alt="DIO - Code The Future">
 </a>
-<a href="https://www.santander.com.br/">
+<a href="https://www.santander.com.br/hotsite/traineesantander/">
     <img src="https://img.shields.io/badge/Santander-Trainee_2026-FF0000" alt="Santander Trainee 2026">
 </a>
-<a href="https://www.universia.net/">
+<a href="https://www.universia.net/br/home">
     <img src="https://img.shields.io/badge/Universia-Recrutamento-00A2E4" alt="Universia">
 </a>
 </p>
@@ -21,16 +23,24 @@
 </p>
 
 <div align="center">
-<a href="https://www.youtube.com/watch?v=zXvtniLgoTY">
+<a href="https://www.youtube.com/watzXvtniLgoTYch?v=">
 <img src="https://img.shields.io/badge/🎬_Assistir_no_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Assistir no YouTube" width="200">
 </a>
 </div>
 
+</br>
+
 ## 📋 Sobre o Projeto
 
-> ℹ️ **NOTE:** Este projeto foi desenvolvido como parte do **Programa Trainee Santander 2026** em parceria com a [DIO](https://dio.me) e **Universia**, explorando as possibilidades da IA generativa na criação de conteúdo.
+</br>
+
+> ℹ️ **NOTE:** Este projeto foi desenvolvido como parte do [**Programa Trainee Santander 2026**](https://www.santander.com.br/hotsite/traineesantander/) em parceria com a [**DIO**](https://dio.me) e [**Universia**](https://www.universia.net/br/home), explorando as possibilidades da IA generativa na criação de conteúdo.
+
+</br>
 
 **Conexão Criativa** é um podcast que investiga o impacto da Inteligência Artificial no universo artístico, promovendo um debate equilibrado entre tradição e inovação. O primeiro episódio aborda o tema **"Pinceladas vs Pixels: O Debate Humano na Era Digital"**.
+
+</br>
 
 ## 🎯 Episódio 1: Pinceladas vs Pixels
 
@@ -39,10 +49,14 @@
 **Formato:** Entrevista descontraída entre apresentador e artista convidado
 **Convidado:** Eduardo Lima - Artista plástico com 20+ anos de experiência
 
+</br>
+
 ### 🎧 Preview do Podcast
 <div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
+    <audio src="output/1001.mp4" controls title="Podcast editado"></audio>
 </div>
+
+</br>
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -51,45 +65,49 @@
 - [**ElevenLabs**](https://beta.elevenlabs.io/) - Síntese de voz e geração de áudio
 - [**Leonardo AI**](https://leonardo.ai/) - Criação de artes e capas
 
+</br>
+
 ### 🎬 Produção
 - [**CapCut**](https://www.capcut.com/pt-br/) - Edição de áudio e vídeo
 - [**Audacity**](https://www.audacityteam.org/) - Tratamento de áudio
 - [**YouTube Studio**](https://studio.youtube.com/) - Publicação e analytics
 
+</br>
+
 ## 🎨 Processo Criativo
+
 
 ### 1. 📝 **Roteirização com IA**
 - Desenvolvimento de prompts estruturados
 - Criação de personagens e diálogos
 - Definição de tom e estilo conversacional
 
+</br>
+
 ### 2. 🎙️ **Geração de Áudio**
 - Síntese de vozes distintas para cada personagem
 - Ajuste de entonação e emoção nas falas
 - Mixagem e tratamento de áudio
 
+</br>
+
 ### 3. 🖼️ **Design Visual**
 - Criação da identidade visual "Conexão Criativa"
-- Desenvolvimento da capa do podcast no **Leonardo AI**
+- Desenvolvimento da capa do podcast no **[Leonardo AI](https://leonardo.ai/)**
 - Elementos gráficos para redes sociais
+
+</br>
 
 ### 4. 🎬 **Edição Final**
 - Inserção de vinhetas e efeitos sonoros
 - Sincronização de áudio e legendas
 - Otimização para plataformas de streaming
 
+</br>
+
 ## 📂 Estrutura do Projeto
 
 
-## 🚀 Como Reproduzir
-
-### Pré-requisitos
-- Conta no [DeepSeek](https://www.deepseek.com/)
-- Acesso ao [ElevenLabs](https://beta.elevenlabs.io/)
-- Conta no [Leonardo AI](https://leonardo.ai/)
-- Software de edição de áudio/vídeo
-
-</br>
 </br>
 
 ## 🚀 Como Reproduzir
@@ -102,13 +120,18 @@
 
 ---
 
+
 ### Passo a Passo
+
+</br>
 
 1. **Roteiro** 🤖
    ```bash
    # Use os prompts disponíveis na pasta /prompts
    # Gere o script completo com DeepSeek
    ```
+
+</br>
 
 2. **Áudio** 🎙️
    ```bash
@@ -117,11 +140,15 @@
    # Exporte os arquivos de áudio
    ```
 
+</br>
+
 3. **Artes** 🎨
    ```bash
    # Use os prompts de design no Leonardo AI
    # Gere a capa e materiais visuais
    ```
+
+</br>
 
 4. **Edição** ✂️
    ```bash
@@ -132,36 +159,33 @@
 
 ---
 
-### 📚 Materiais de Apoio
-- 📺 Episódio no YouTube  
-- 📋 Template de Prompts  
-- 🎬 Editor CapCut  
-- 📄 Documentação Completa  
+</br>
+
+## 📚 Material de Apoio
+- 📄 [Documentação Completa](https://github.com/felipeAguiarCode/prompts-for-podcast-generate-by-ia)  
 
 ---
 
-### 🔗 Links Importantes
-- 📂 Repositório no GitHub  
-- 👤 Meu LinkedIn  
-- 🎓 Programa Trainee Santander 2026  
+</br>
 
----
 
-### 👨‍💻 Desenvolvedor
+## 👨‍💻 Desenvolvedor
 <p>
-  <img align="left" width="80" src="https://avatars.githubusercontent.com/u/37452836?v=4" />
+</br>
+  <img align="left" width="80" src= imagem minha />
   <p>
-    &nbsp;&nbsp;&nbsp;Felipe Aguiar  
-    &nbsp;&nbsp;&nbsp;<a href="https://github.com/felipeAguiarCode">GitHub</a> &nbsp;|&nbsp; 
-    <a href="https://www.linkedin.com/in/felipe-exe">LinkedIn</a> &nbsp;|&nbsp; 
-    <a href="https://www.instagram.com/felipeaguiar.exe/">Instagram</a>
+    &nbsp;&nbsp;&nbsp;Pedro Augusto Rocha  
+    &nbsp;&nbsp;&nbsp;<a href="https://github.com/apedrodev1">GitHub</a> &nbsp;|&nbsp; 
+    <a href="https://www.linkedin.com/in/pedro-augusto-rocha-548b28110/">LinkedIn</a> &nbsp;|&nbsp; 
   </p>
 </p>
 
 ---
 
-### 📄 Licença
-Este projeto foi desenvolvido para fins educacionais como parte do **Programa Trainee Santander 2026**.
+</br>
+
+## 📄 Licença
+Este projeto foi desenvolvido para fins educacionais como parte do [**Programa Trainee Santander 2026**](https://www.santander.com.br/hotsite/traineesantander/) .
 
 
 
