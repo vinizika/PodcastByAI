@@ -11,5 +11,5 @@
 
 | Resposta | Visualização |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Resultado | <p align="center"><img src="../../assets/coverPodcast.jpg" alt="Capa do podcast Conexão Criativa" width="100%"></p> |
+| Resultado | <p align="center"><img src="../../assets/img/coverPodcast.jpg" alt="Capa do podcast Conexão Criativa" width="100%"></p> |
 
