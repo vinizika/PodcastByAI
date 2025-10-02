@@ -11,8 +11,6 @@
 
 ## Anexos:
 
-Entrevistador:
-
 <p align="center"><img src="../../assets/img/studioPodcast-1.png" alt="Identidade visual do Apresentador " width="100%"></p>
 
 </br>
