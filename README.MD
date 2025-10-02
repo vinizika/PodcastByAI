@@ -45,7 +45,7 @@
 ## 🎯 Episódio 1: Pinceladas vs Pixels
 
 **Tema:** A arte tradicional enfrentando a revolução da IA generativa
-**Duração:** 18-20 minutos
+**Duração:** 5 - 7 minutos
 **Formato:** Entrevista descontraída entre apresentador e artista convidado
 **Convidado:** Eduardo Lima - Artista plástico com 20+ anos de experiência
 
@@ -53,7 +53,7 @@
 
 ### 🎧 Preview do Podcast
 <div align="center">
-    <audio src="output/1001.mp4" controls title="Podcast editado"></audio>
+    <audio src="output/final audio/conexao-criativa-ep1.mp4" controls title="Podcast editado"></audio>
 </div>
 
 </br>
@@ -64,6 +64,8 @@
 - [**DeepSeek**](https://www.deepseek.com/) - Roteirização e engenharia de prompts
 - [**ElevenLabs**](https://beta.elevenlabs.io/) - Síntese de voz e geração de áudio
 - [**Leonardo AI**](https://leonardo.ai/) - Criação de artes e capas
+
+- [**Gemini - VEO 3**](https://gemini.google/overview/video-generation/?hl=pt-BR) - Criação de vídeos.
 
 </br>
 
@@ -96,17 +98,58 @@
 - Desenvolvimento da capa do podcast no **[Leonardo AI](https://leonardo.ai/)**
 - Elementos gráficos para redes sociais
 
+
 </br>
 
 ### 4. 🎬 **Edição Final**
 - Inserção de vinhetas e efeitos sonoros
 - Sincronização de áudio e legendas
 - Otimização para plataformas de streaming
+- Criação audiovisual [**Gemini - VEO 3**](https://gemini.google/overview/video-generation/?hl=pt-BR)
+
+
 
 </br>
 
 ## 📂 Estrutura do Projeto
 
+```bash
+PROMPTS-FOR-PODCAST-GENERATION/
+│ 
+├── assets/
+│   ├── img/
+│   │   ├── broadcasterPodcast.jpg
+│   │   ├── coverPodcast.jpg
+│   │   ├── interviewedPodcast.jpg
+│   │   ├── studioPodcast-1.png
+│   │   └── studioPodcast-2.png
+│   └── video/
+│       └── podcastVideo.mp4
+│
+├── output/
+│   ├── audio raw podcast/
+│   │   ├── Interviewed/
+│   │   └── Broadcaster/
+│   ├── captions/
+│   │   └── caption-pt-br.txt
+│   └── final audio/
+│       └── conexao-criativa-ep1.mp4
+│
+├── src/
+│   └── prompts/
+│       ├── deepSeekFinalScript.md
+│       ├── deepSeekPodcastName.md
+│       ├── deepSeekPodcastScript.md
+│       ├── geminiVideo.md
+│       ├── lioAiBroadcasterPic.md
+│       ├── lioAiCoverImage.md
+│       ├── lioAiInterviewed.md
+│       └── lioAiStudio.md
+│
+├── .gitignore
+└── README.md
+
+```
 
 </br>
 
@@ -116,6 +159,7 @@
 - Conta no [DeepSeek](https://www.deepseek.com/)
 - Acesso ao [ElevenLabs](https://beta.elevenlabs.io/)
 - Conta no [Leonardo AI](https://leonardo.ai/)
+- Conta no [Gemini - VEO 3](https://gemini.google/overview/video-generation/?hl=pt-BR)
 - Software de edição de áudio/vídeo
 
 ---
@@ -158,7 +202,15 @@
    ```
 </br>
 
+5. **Vídeo** 🎥
+   ```bash
+   # Acesse o Gemini - VEO 3
+   # Importe a capa e materiais visuais gerados
+   # Forneça o roteiro como guia de narrativa
+   # Configure estilo visual e duração
+   # Gere a versão final em vídeo do podcast
 ---
+
 
 </br>
 
@@ -174,10 +226,9 @@
 
 
 ## 👨‍💻 Desenvolvedor
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/139691086?v=4" width="80" alt="Foto de Pedro Augusto"/>
 <p>
-</br>
-  <img align="left" width="80" src= imagem minha />
-  <p>
     &nbsp;&nbsp;&nbsp;Pedro Augusto Rocha  
     &nbsp;&nbsp;&nbsp;<a href="https://github.com/apedrodev1">GitHub</a> &nbsp;|&nbsp; 
     <a href="https://www.linkedin.com/in/pedro-augusto-rocha-548b28110/">LinkedIn</a> &nbsp;|&nbsp; 
