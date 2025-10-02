@@ -92,77 +92,77 @@
 </br>
 </br>
 
+## 🚀 Como Reproduzir
+
+### Pré-requisitos
+- Conta no [DeepSeek](https://www.deepseek.com/)
+- Acesso ao [ElevenLabs](https://beta.elevenlabs.io/)
+- Conta no [Leonardo AI](https://leonardo.ai/)
+- Software de edição de áudio/vídeo
+
+---
+
 ### Passo a Passo
 
 1. **Roteiro** 🤖
    ```bash
    # Use os prompts disponíveis na pasta /prompts
    # Gere o script completo com DeepSeek
+   ```
 
-```bash
+2. **Áudio** 🎙️
+   ```bash
+   # Importe o script no ElevenLabs
+   # Selecione vozes distintas para cada personagem
+   # Exporte os arquivos de áudio
+   ```
 
+3. **Artes** 🎨
+   ```bash
+   # Use os prompts de design no Leonardo AI
+   # Gere a capa e materiais visuais
+   ```
 
-2. ** Áudio 🎙️
- 
-    ```bash
-    # Importe o script no ElevenLabs
-    # Selecione vozes distintas para cada personagem
-    # Exporte os arquivos de áudio
- ```bash
+4. **Edição** ✂️
+   ```bash
+   # Importe áudios no CapCut/Audacity
+   # Adicione trilha sonora e efeitos
+   # Exporte o vídeo final
+   ```
 
-</br>
-</br>
+---
 
-3. ** Artes 🎨
-```bash
-# Use os prompts de design no Leonardo AI
-# Gere a capa e materiais visuais
-```bash
+### 📚 Materiais de Apoio
+- 📺 Episódio no YouTube  
+- 📋 Template de Prompts  
+- 🎬 Editor CapCut  
+- 📄 Documentação Completa  
 
-</br>
-</br>
+---
 
-4. **Edição ✂️
-    ```bash
-    # Importe áudios no CapCut/Audacity
-    # Adicione trilha sonora e efeitos
-    # Exporte o vídeo final
-```bash
+### 🔗 Links Importantes
+- 📂 Repositório no GitHub  
+- 👤 Meu LinkedIn  
+- 🎓 Programa Trainee Santander 2026  
 
+---
 
+### 👨‍💻 Desenvolvedor
+<p>
+  <img align="left" width="80" src="https://avatars.githubusercontent.com/u/37452836?v=4" />
+  <p>
+    &nbsp;&nbsp;&nbsp;Felipe Aguiar  
+    &nbsp;&nbsp;&nbsp;<a href="https://github.com/felipeAguiarCode">GitHub</a> &nbsp;|&nbsp; 
+    <a href="https://www.linkedin.com/in/felipe-exe">LinkedIn</a> &nbsp;|&nbsp; 
+    <a href="https://www.instagram.com/felipeaguiar.exe/">Instagram</a>
+  </p>
+</p>
 
-</br>
-</br>
+---
 
-## 📚 Materiais de Apoio
-    - 📺 Episódio no YouTube
+### 📄 Licença
+Este projeto foi desenvolvido para fins educacionais como parte do **Programa Trainee Santander 2026**.
 
-    - 📋 Template de Prompts
-    
-    - 🎬 Editor CapCut
-    
-    - 📄 Documentação Completa
-
-</br>
-</br>
-
-## 🔗 Links Importantes
-     - 📂 Repositório no GitHub
-
-    - 👤 Meu LinkedIn
-
-    - 🎓 Programa Trainee Santander 2026
-
-</br>
-</br>
-
-
-## 👨‍💻 Desenvolvedor
-<p> <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/37452836?v=4" /> <p>&nbsp&nbsp&nbspFelipe Aguiar<br> &nbsp&nbsp&nbsp <a href="https://github.com/felipeAguiarCode">GitHub</a> &nbsp;|&nbsp; <a href="www.linkedin.com/in/felipe-exe">LinkedIn</a> &nbsp;|&nbsp; <a href="https://www.instagram.com/felipeaguiar.exe/">Instagram</a> &nbsp;</p> </p>
-
-
-## 📄 Licença
-Este projeto foi desenvolvido para fins educacionais como parte do Programa Trainee Santander 2026.
 
 
 
