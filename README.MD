@@ -156,13 +156,17 @@
    # Adicione trilha sonora e efeitos
    # Exporte o vídeo final
    ```
+</br>
 
 ---
 
 </br>
 
+
+
 ## 📚 Material de Apoio
-- 📄 [Documentação Completa](https://github.com/felipeAguiarCode/prompts-for-podcast-generate-by-ia)  
+- 📄 [Documentação Completa](https://github.com/felipeAguiarCode/prompts-for-podcast-generate-by-ia)
+- 📋 [Template de Prompts](https://github.com/apedrodev1/prompts-for-podcast-generate-by-ia/tree/main/src/prompts)  
 
 ---
 
