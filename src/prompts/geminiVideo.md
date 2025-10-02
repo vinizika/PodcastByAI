@@ -35,7 +35,11 @@
 
 </br>
 
-    Negative Prompt: "expressões        exageradas, movimentos bruscos,     iluminação plana, falta de sincronia    no diálogo"
+    Negative Prompt: 
+        - Expressões exageradas, 
+        - Movimentos bruscos,     
+        - Iluminação plana, 
+        - Falta de sincronia no diálogo"
 
 
 </br>
