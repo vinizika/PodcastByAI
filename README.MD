@@ -52,7 +52,7 @@
 </br>
 
 ## 🎧 Preview do Podcast
-[🎙️ Ouvir o Episódio](./output/final%20audio/conexao-criativa-ep1.mp3)
+[🎙️ Ouvir o Episódio](https://github.com/apedrodev1/prompts-for-podcast-generate-by-ia/tree/main/output/final%20audio)
 
 </br>
 
@@ -225,7 +225,7 @@ PROMPTS-FOR-PODCAST-GENERATION/
 ## 👨‍💻 Desenvolvedor
 
 <p align="center">
-  <img src="[text](https://avatars.githubusercontent.com/u/139691086?v=4)" width="200" alt="Foto de Pedro Augusto"/>
+  <img src="https://avatars.githubusercontent.com/u/139691086?v=4" width="200" alt="Foto de Pedro Augusto"/>
 </p>
 
 <p align="center">
