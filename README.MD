@@ -225,7 +225,7 @@ PROMPTS-FOR-PODCAST-GENERATION/
 ## 👨‍💻 Desenvolvedor
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/139691086?v=4" width="200" alt="Foto de Pedro Augusto"/>
+  <img src="./assets/img/apedrodev1-pic.jpg" width="150" alt="Foto de Pedro Augusto"/>
 </p>
 
 <p align="center">
