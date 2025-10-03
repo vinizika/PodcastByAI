@@ -19,13 +19,26 @@
 </p>
 
 <p align="center">
-🎧 <strong>Episódio Disponível no YouTube</strong> 🎧
+🎧 <strong>Episódio Disponível em:</strong> 🎧
 </p>
 
 <div align="center">
 <a href="https://youtu.be/zXvtniLgoTY">
 <img src="https://img.shields.io/badge/🎬_Assistir_no_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Assistir no YouTube" width="200">
 </a>
+
+<div align="center">
+<a href="https://soundcloud.com/pedro-augusto-956201243/conexao-criativa-episodio-1-a-ia-vai-substituir-artistas-o-debate-que-todo-criativo-precisa-ouvir">
+<img src="https://img.shields.io/badge/🎧_Ouvir_no_SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" alt="Ouvir no SoundCloud" width="200">
+</a>
+
+<div align="center">
+<a href="https://open.spotify.com/show/4xqdstiAoaOGapPd6707Xg?si=I-ma0mRaSR2j9bsMPkKWUg">
+<img src="https://img.shields.io/badge/🎵_Ouvir_no_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Ouvir no Spotify" width="200">
+</a>
+</div>
+
+</div>
 </div>
 
 </br>
