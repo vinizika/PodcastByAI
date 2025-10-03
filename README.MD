@@ -23,7 +23,7 @@
 </p>
 
 <div align="center">
-<a href="https://www.youtube.com/watzXvtniLgoTYch?v=">
+<a href="https://youtu.be/zXvtniLgoTY">
 <img src="https://img.shields.io/badge/🎬_Assistir_no_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Assistir no YouTube" width="200">
 </a>
 </div>
@@ -51,10 +51,8 @@
 
 </br>
 
-### 🎧 Preview do Podcast
-<div align="center">
-    <audio src="output/final audio/conexao-criativa-ep1.mp4" controls title="Podcast editado"></audio>
-</div>
+## 🎧 Preview do Podcast
+[🎙️ Ouvir o Episódio](./output/final%20audio/conexao-criativa-ep1.mp3)
 
 </br>
 
@@ -224,16 +222,20 @@ PROMPTS-FOR-PODCAST-GENERATION/
 
 </br>
 
-
 ## 👨‍💻 Desenvolvedor
+
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/139691086?v=4" width="80" alt="Foto de Pedro Augusto"/>
-<p>
-    &nbsp;&nbsp;&nbsp;Pedro Augusto Rocha  
-    &nbsp;&nbsp;&nbsp;<a href="https://github.com/apedrodev1">GitHub</a> &nbsp;|&nbsp; 
-    <a href="https://www.linkedin.com/in/pedro-augusto-rocha-548b28110/">LinkedIn</a> &nbsp;|&nbsp; 
-  </p>
+  <img src="[text](https://avatars.githubusercontent.com/u/139691086?v=4)" width="200" alt="Foto de Pedro Augusto"/>
 </p>
+
+<p align="center">
+  <b>Pedro Augusto</b>  
+  <br>
+  <a href="https://github.com/apedrodev1">GitHub</a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/pedro-augusto-rocha-548b28110/">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://www.instagram.com/apedrorocha/">Instagram</a>
+</p>
+
 
 ---
 
@@ -241,7 +243,5 @@ PROMPTS-FOR-PODCAST-GENERATION/
 
 ## 📄 Licença
 Este projeto foi desenvolvido para fins educacionais como parte do [**Programa Trainee Santander 2026**](https://www.santander.com.br/hotsite/traineesantander/) .
-
-
 
 
