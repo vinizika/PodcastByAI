@@ -1,9 +1,8 @@
 # 🧠 Prompts do Chat GPT
 
-## ChatGPT：
+## ChatGPT：Criação do nome
 
 |   Ação   | 
-
 Você é um roteirista de podcast, e vamos criar um podcast de tecnologia, focado em desenvolvimento de jogos e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast de desenvolvimento de jogos, e que tenha algum trocadilho nerd no nome o podcast vai falar sobre dicas e novidades sobre o mundo do desenvolvimento de jogos, principalmente em jogos de pixel art 8 bits e o que está acontecendo no mercado                                                                                                                                                       
 |   Regras positivas   | 
 - O nome deve ser enxuto, um nome e um subtítulo. 
