@@ -1,10 +1,15 @@
-## 🧠 Prompts
+# 🧠 Prompts do Chat GPT
 
+## ChatGPT：
 
-ChatGPT：
+|   Ação   | 
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+Você é um roteirista de podcast, e vamos criar um podcast de tecnologia, focado em desenvolvimento de jogos e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast de desenvolvimento de jogos, e que tenha algum trocadilho nerd no nome o podcast vai falar sobre dicas e novidades sobre o mundo do desenvolvimento de jogos, principalmente em jogos de pixel art 8 bits e o que está acontecendo no mercado                                                                                                                                                       
+|   Regras positivas   | 
+- O nome deve ser enxuto, um nome e um subtítulo. 
+- O nome tenha algum trocadilho nerd com nomes de franquias conhecidas. 
+- O nome deve conter alguma palavra forte que remeta a desenvolvimento de jogos.
 
+|   Regras negativas   | 
+- Não quero que utilize nenhuma das palavras nessa lista: art, programador, 8bits. 
+- Não utilize a palavra pixel no nome nem qualquer variação dela.
