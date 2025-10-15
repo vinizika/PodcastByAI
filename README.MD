@@ -35,8 +35,8 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 
 Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
-Como Desafio, Eu Paulo Henrique fiz um podcast "FlowerCast", pensando no cotidiano de uma floricultura e os afazeres dos florista, como tambem o significado de cada flor ou arranjo confecionado pelos florista.  Me basiei em um cenario real de uma floricultura chamada Talento Flores na qual presto serviços de designer. 
- 
+Como Desafio, Eu Paulo Henrique fiz um podcast "FlowerCast", pensando no cotidiano de uma floricultura e os afazeres dos florista, como tambem o significado de cada flor ou arranjo confecionado pelos florista.  Me baseei em um cenario real de uma floricultura chamada Talento Flores na qual presto serviços de designer. 
+
 
 ## 💻 Tecnologias utilizadas no projeto
 
