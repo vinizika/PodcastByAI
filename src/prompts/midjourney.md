@@ -1,0 +1,1 @@
+create pixel art scene of a young fan with a beer and a horn (corneta) in a lively bar, isometric, low resolution, down angle, game boy color palette, 8-bit sprites, clean outlines, TV showing a simplified pitch, crowd around, confetti pixels, retro vibes, no text --ar 1:1 --v 5.2
